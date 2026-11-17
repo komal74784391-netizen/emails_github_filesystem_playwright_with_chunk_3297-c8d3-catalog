@@ -9,6 +9,7 @@ vendor_page: https://quasar-compute.example.net/flow
 docs_url: https://docs.quasar-compute.example.net/flow
 license_tier: community
 edition: standard (1.6 line)
+source_url: https://github.com/komal74784391-netizen/emails_github_filesystem_playwright_with_chunk_3297-c8d3-quasar-flow
 ---
 
 Quasar Flow is a stream processing runtime with event-time windows, checkpointed state and a pluggable sink API. It is offered in two editions: the Standard line (1.6) and the long-term-support LTS line (1.5).
