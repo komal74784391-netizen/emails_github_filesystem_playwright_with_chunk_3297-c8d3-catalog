@@ -9,7 +9,7 @@ vendor_page: https://nimbus-systems.example.net/query
 docs_url: https://docs.nimbus-systems.example.net/query
 license_tier: community
 edition: standard
-source_url: https://github.com/komal74784391-netizen/emails_github_filesystem_playwright_with_chunk_3297-c8d3-nimbus-query
+source_url: https://github.com/atlas-foundry/nimbus-query
 ---
 
 Nimbus Query is a query planning layer for federated analytical stores. It translates ANSI SQL into execution plans for Nimbus' columnar engine and reports cost estimates per stage.
